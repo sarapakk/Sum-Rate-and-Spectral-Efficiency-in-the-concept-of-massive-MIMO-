@@ -1,4 +1,4 @@
-# Sum-Rate-and-Spectral-Efficiency-in-the-concept-of-massive-MIMO
+# Sum-Rate-and-Spectral-Efficiency-in-the-concept-of-Massive-MIMO
 
 
 In this project, the concept of sum rate and spectral efficiency in Massive MIMO (multiple-input, multiple-output) as a type of wireless communications technology is presented briefly.
